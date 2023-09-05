@@ -43,6 +43,6 @@
 
 1. Коллекция PetStore: https://www.postman.com/whitespar/workspace/petstore-swagger/collection/26532598-72d29882-a1a0-4e57-817a-17eb8810bc8b?action=share&creator=26532598
 2. Тест-кейсы и проверка XML: https://docs.google.com/spreadsheets/d/1p8nwC3EKufEaYVg1FSqjpa3b7WVT7hpqkva0meT82w4/edit#gid=1982309468
-3. https://docs.google.com/spreadsheets/d/1p8nwC3EKufEaYVg1FSqjpa3b7WVT7hpqkva0meT82w4/edit#gid=1220596673
+ https://docs.google.com/spreadsheets/d/1p8nwC3EKufEaYVg1FSqjpa3b7WVT7hpqkva0meT82w4/edit#gid=1220596673
 
 
